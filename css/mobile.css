@@ -1,0 +1,38 @@
+.hidemobile { display: none }
+.container {width:90%; margin: auto; }
+
+#pledges .pledge p, .pagination {
+#	font-size: 2em;
+}
+.span-24, .span-21, .span-15, .span-9 { width: 100% }
+.span-11 {
+	width: 80%;
+}
+.span-16 { width: 75%; }
+.span-8 { width: 20%; }
+.span-6, .span-5, .span-4 {
+	width: 30%;
+}
+#nav {
+	width: 100%;
+}
+#nav li, .pledge_button.li {
+#	margin: 1%;
+}
+p, label, input, a, li {
+#	font-size: 1.7em;
+}
+p a, li a {
+#	font-size: 1.2em;
+}
+
+img.icon {
+#  width: 60px;
+}
+#logo {
+#	width: 100%;
+}
+.sitemap li {
+	padding-top: 10px;
+	display: block;
+}
